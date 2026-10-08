@@ -6,5 +6,5 @@ export const SITE = {
   github: 'https://github.com/saqlainyaqoob',
   linkedin: 'https://www.linkedin.com/in/saqlain-yaqoob-2022621a4/',
 
-  resumePath: '/resume.pdf',
+  resumePath: '/saqlain-yaqoob-fullstack-developer.pdf',
 }

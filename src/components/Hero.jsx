@@ -31,7 +31,7 @@ export default function Hero() {
           <div className="mt-9 flex flex-wrap items-center gap-4">
             <a
               href={SITE.resumePath}
-              download="Alex-Rivera-Resume.pdf"
+              download="saqlain-yaqoob-fullstack-developer.pdf"
               className="inline-flex items-center gap-2 rounded-md bg-slate-900 px-5 py-3 text-sm font-medium text-white shadow-lg shadow-slate-900/10 transition-all hover:-translate-y-1 hover:bg-slate-700 dark:bg-amber-500 dark:text-slate-950 dark:hover:bg-amber-400"
             >
               <IoMdDownload size={16} />
